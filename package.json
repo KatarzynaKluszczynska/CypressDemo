@@ -1,0 +1,23 @@
+{
+  "name": "CypressDemo",
+  "version": "1.0.0",
+  "description": "CypressDemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatarzynaKluszczynska/CypressDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatarzynaKluszczynska/CypressDemo/issues"
+  },
+  "homepage": "https://github.com/KatarzynaKluszczynska/CypressDemo#readme",
+  "dependencies": {
+    "cypress": "^4.1.0"
+  }
+}
